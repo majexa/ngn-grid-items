@@ -9,7 +9,6 @@ module.exports = function (filter, pageN, basePath, dbModel, model, map, onResul
     });
     dbModel.count(filter, function (err, count) {
         let paginationData = pagination.data(pageN, count);
-        console.log(filter);
         dbModel.find(filter).
         sort({ dt: -1 }).
         skip( //
