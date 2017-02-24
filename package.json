@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ngn-grid-items@^1.0.0",
+        "scope": null,
+        "escapedName": "ngn-grid-items",
+        "name": "ngn-grid-items",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/home/masted/www/skills-server"
+    ]
+  ],
+  "_from": "ngn-grid-items@>=1.0.0 <2.0.0",
+  "_id": "ngn-grid-items@1.0.0",
+  "_inCache": true,
+  "_location": "/ngn-grid-items",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/ngn-grid-items-1.0.0.tgz_1487339970890_0.3129103381652385"
+  },
+  "_npmUser": {
+    "name": "andrey-yartsev",
+    "email": "andrey.yartsev.g@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ngn-grid-items@^1.0.0",
+    "scope": null,
+    "escapedName": "ngn-grid-items",
+    "name": "ngn-grid-items",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngn-grid-items/-/ngn-grid-items-1.0.0.tgz",
+  "_shasum": "aab7cd147e79343382c966383e24fd139c0ebe79",
+  "_shrinkwrap": null,
+  "_spec": "ngn-grid-items@^1.0.0",
+  "_where": "/home/masted/www/skills-server",
+  "author": {
+    "name": "Andrey Yartsev",
+    "email": "andrey.yartsev.g.@gmail.com",
+    "url": "http://majexa.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/majexa/ngn-grid-items/issues"
+  },
+  "dependencies": {},
+  "description": "Generates data structure for Ngn.Grid",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "aab7cd147e79343382c966383e24fd139c0ebe79",
+    "tarball": "https://registry.npmjs.org/ngn-grid-items/-/ngn-grid-items-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/majexa/ngn-grid-items#readme",
+  "keywords": [
+    "ngn",
+    "ngn.grid"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "andrey-yartsev",
+      "email": "andrey.yartsev.g@gmail.com"
+    }
+  ],
+  "name": "ngn-grid-items",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majexa/ngn-grid-items.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
